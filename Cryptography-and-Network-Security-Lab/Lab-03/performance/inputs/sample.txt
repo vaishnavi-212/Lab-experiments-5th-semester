@@ -1,0 +1,2 @@
+The quick brown fox jumps over the lazy dog.
+This is a sample text file for AES and DES performance analysis.
